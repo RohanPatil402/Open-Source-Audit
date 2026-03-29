@@ -1,0 +1,9 @@
+------------------------------
+Open Source Manifesto
+------------------------------
+User: rohan
+Date: Sun Mar 29 16:56:08 UTC 2026
+
+I believe in open source because it represents sharing.
+Every day, I use tools like git which empower innovation.
+In the future, I aim to build apps and share it freely with the world.
