@@ -41,7 +41,7 @@ Open-Source-Audit/
 
 ### 1. Clone the repository
 
-git clone https://github.com/RohanPatil402/Open-Source-Audit.git
+git clone https://github.com/RohanPatil402/OSS-Audit-24MIM10060
 
 cd Open-Source-Audit
 
